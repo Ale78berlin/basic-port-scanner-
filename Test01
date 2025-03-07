@@ -1,1 +1,9 @@
 
+---
+
+
+```sh
+git add .
+git commit -m "Initial commit - added port scanner script"
+git push origin main
+
